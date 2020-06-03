@@ -20,3 +20,11 @@ The opportunity for your submission to be accepted will be greater if:
 * Use SearchView to implement search features.
 * Displays information to the user when a search result was not found.
 * Write the code clean.
+
+## Resource 
+API resources that you can use to do this submission:
+* League detail: https://www.thesportsdb.com/api/v1/json/1/lookupleague.php?id={idLeague}
+* Next match list: https://www.thesportsdb.com/api/v1/json/1/eventsnextleague.php?id={idLeague} 
+* Previous match list:  https://www.thesportsdb.com/api/v1/json/1/eventspastleague.php?id={idLeague}
+* Match detail: https://www.thesportsdb.com/api/v1/json/1/lookupevent.php?id={idEvent}
+* Searh match: https://www.thesportsdb.com/api/v1/json/1/searchevents.php?e={query}
